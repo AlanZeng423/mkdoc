@@ -1,4 +1,11 @@
-site_name: My Docs
+site_name: Alan's Docs
+site_description: 
 site_url: https://sites.alanzeng.com/mkdoc
 theme:
   name: material
+
+
+
+plugins:
+  - search
+  - blog
